@@ -35,17 +35,17 @@ export default function ProjectsList() {
     {
       title: "Smart Ledger",
       description:
-        "Financial management application with expense tracking, budget planning, and financial analytics.",
+        "AI-powered business accounting app with expense tracking, customer management, and financial analytics. Cross-platform mobile application built with React Native.",
       img: "smart-ledger.png",
       techStack: [
         "React Native",
-        "JavaScript",
+        "TypeScript",
         "Financial Management",
         "Expense Tracking",
-        "Budget Planning",
-        "Analytics",
+        "Customer Management",
+        "AI Integration",
       ],
-      github: "https://github.com/MazahirAli545/smart-ledger",
+      github: "https://github.com/MazahirAli545/Smart-Ledger",
     },
     {
       title: "Instagram Clone",

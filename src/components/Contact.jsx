@@ -13,7 +13,7 @@ export default function Contact() {
           </div>
           <div className="contact-info">
             <h6>Location</h6>
-            <p>Available for Remote Work</p>
+            <p>Available for Both Office and Remote Work</p>
           </div>
         </div>
         <div className="contact-card">
